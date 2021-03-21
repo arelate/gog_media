@@ -1,3 +1,3 @@
-module "github.com/arelate/gog_media"
+module github.com/arelate/gog_media
 
 go 1.16
