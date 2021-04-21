@@ -42,3 +42,10 @@ func Valid(mt Media) bool {
 	}
 	return false
 }
+
+func All() []Media {
+	return []Media{
+		Game,
+		Movie,
+	}
+}
